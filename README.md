@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
-# `npx create-react-app my-app`
-# `cd my-app`
+ `npx create-react-app my-app`
+ `cd my-app`
 
 # Runs the app in the development mode.
 ### `npm start`
